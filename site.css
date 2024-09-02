@@ -4,11 +4,9 @@ h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
-p {
+ul {
 
-color: rgb(19, 20, 20);
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    background-color: burlywood;
 }
 
 body {background-color: rgb(237, 244, 242);}
